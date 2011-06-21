@@ -1,0 +1,3 @@
+1. make additions to KeycodeLabels.h
+2. recompile binary:
+g++ -I ./ kcm.cpp
